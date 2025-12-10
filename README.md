@@ -1,3 +1,5 @@
 # gender
 
-deer/they/she i gues
+she/they/it i gues
+
+deer/otter/panda
